@@ -53,11 +53,12 @@ img {
 
 .section-heading h1 {
     font-size: 3.5rem;
-    color: rgba(255,255,255, .3);
+    color: #fbfbfb;
     text-transform: uppercase;
     font-weight: 300;
     position: relative;
     margin-bottom: 1rem;
+    
 
 
 }
@@ -268,11 +269,11 @@ li {
     transition: color 650ms;
 }
 
-.fa-facebook-square:hover {
-    color: #4267b2;
+.fa-github-square:hover {
+    color: #585858;
 }
 
-.fa-twitter-square:hover {
+.fa-linkedin:hover {
     color: #38a1f3;
 }
 

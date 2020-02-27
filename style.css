@@ -35,6 +35,23 @@ p {
 img {
     width: 100%;
 }
+
+.resume {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.resume a {
+    animation: pulse 2s infinite;
+    cursor: pointer;
+}
+
+.resume a:hover {
+    background: linear-gradient(to top,  #04ca46, #fbfbfb);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   
+}
 /*End global*/
 
 /*Start reusable*/

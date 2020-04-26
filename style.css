@@ -576,6 +576,14 @@ input[type="submit"]:hover {
         order: 1;
     }
 
+    .wistia_embed wistia_async_27huc7j883 {
+        margin: 0 0 2rem 0;
+        order: 1; 
+        padding: -10px;
+        padding-right 20px;
+    }
+
+
     .portfolio-description {
         margin: 0;
         order: 2;

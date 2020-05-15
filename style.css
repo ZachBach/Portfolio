@@ -43,6 +43,7 @@ img {
 }
 
 .resume a {
+  border-radius: 150px;
   animation: pulse 2s infinite;
   cursor: pointer;
 }
